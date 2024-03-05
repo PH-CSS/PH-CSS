@@ -1,14 +1,14 @@
 # Quem Eu sou. 
-
+<img  src="https://github.com/mStof/Guaraci/blob/main/img/Desenvolvedores/Our_image/Ph.png"
+            width=300px
+            />
 - 👋 Hi, I’m: ph
 - 👀 I’m interested: FrontEnd atualmente
 - 🌱 I’m currently learning: DOM manipulation
 - 📫 How to reach me: Por aqui mesmo :)
 - ⚡ Fun fact: futuro profissional de volei fala dele
 
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-            width=100px
-            />
+
 
 # conhecimentos gerais
 <div>
