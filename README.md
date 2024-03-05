@@ -1,15 +1,39 @@
 # Quem Eu sou. 
 
+- 👋 Hi, I’m: ph
+- 👀 I’m interested: FrontEnd atualmente
+- 🌱 I’m currently learning: DOM manipulation
+- 📫 How to reach me: Por aqui mesmo :)
+- ⚡ Fun fact: futuro profissional de volei fala dele
 
-            <i class="devicon-html5-plain"></i>
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+            width=100px
+            />
+
+# conhecimentos gerais
+<div>
+            
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+            width=50px
+            />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+             width=50px
+            />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+            width=50px
+            />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+             width=50px
+            />
+        
+            
           
-- 👋 Hi, I’m ph
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+</div>
+                      
+          
+          
+
 
 <!---
 PH-CSS/PH-CSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
