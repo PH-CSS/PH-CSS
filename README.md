@@ -1,5 +1,7 @@
 # Quem Eu sou. 
 
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+
 - 👋 Hi, I’m ph
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
