@@ -1,6 +1,8 @@
 # Quem Eu sou. 
 
-<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+
+            <i class="devicon-html5-plain"></i>
+          
 - 👋 Hi, I’m ph
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
