@@ -2,14 +2,9 @@
 
 
 - 👋 Hi, I’m: ph
-- 👀 I’m interested: FrontEnd atualmente
-- 🌱 I’m currently learning: DOM manipulation
+- 👀 I’m interested: fullstack
+- 🌱 I’m currently learning: yes
 - 📫 How to reach me: Por aqui mesmo :)
-- ⚡ Fun fact: futuro profissional de volei fala dele
-
-   <img  src="https://github.com/mStof/Guaraci/blob/main/img/Desenvolvedores/Our_image/Ph.png"
-            width=300px
-            />
 
 
 # Meus conhecimentos gerais
