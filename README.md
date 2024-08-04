@@ -40,7 +40,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PH-CSS&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=PH-CSS&show_icons=true&theme=a"
     media="(prefers-color-scheme: dark)"
   />
   <source
