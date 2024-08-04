@@ -40,7 +40,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PH-CSS&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats.vercel.app/api?username=PH-CSS&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 
 </picture>     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CSS&size_weight=0.5&count_weight=0.5&theme=dracula" />       
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CSS&size_weight=0.5&count_weight=0.5&theme=dark" />       
 
 
 
