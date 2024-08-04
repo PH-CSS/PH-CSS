@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 
 </picture>     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CSS&size_weight=0.5&count_weight=0.5&theme=dark" />       
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CSS&size_weight=0.5&count_weight=0.5&theme=a" />       
 
 
 
