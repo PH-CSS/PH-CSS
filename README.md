@@ -3,8 +3,10 @@
 
 - 👋 Hi, I’m: ph
 - 👀 I’m interested: fullstack
-- 🌱 I’m currently learning: yes
-- 📫 How to reach me: Por aqui mesmo :)
+- 🌱 I’m currently learning: React, .NET, JSON manipulation 
+- 📫 How to reach me:
+- instagram : @onuvemm ;
+- Linkedin:
 
 
 # Meus conhecimentos gerais
