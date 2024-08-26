@@ -5,8 +5,8 @@
 - 👀 I’m interested: fullstack
 - 🌱 I’m currently learning: React, .NET, JSON manipulation 
 - 📫 How to reach me:
-- instagram : @onuvemm ;
-- Linkedin:
+- instagram : @onuvemm 
+- Linkedin: https://www.linkedin.com/in/paulo-henrique-028a28324/
 
 
 # Meus conhecimentos gerais
