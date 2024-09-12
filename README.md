@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m: ph
 - 👀 I’m interested: fullstack
-- 🌱 I’m currently learning: React, .NET, JSON manipulation 
+- 🌱 I’m currently learning: React, .NET, DataBase manipulation, CookieJS
 - 📫 How to reach me:
 - instagram : @onuvemm 
 - Linkedin: https://www.linkedin.com/in/paulo-henrique-028a28324/
