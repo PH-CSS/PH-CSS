@@ -60,9 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CSS&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
 
 </picture>     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CSS&size_weight=0.5&count_weight=0.5&theme=a" />       
-
-
 
 
           
