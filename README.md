@@ -53,13 +53,18 @@
     srcset="https://github-readme-stats.vercel.app/api?username=PH-CSS&theme=dracula&show_icons=true&hide_border=true&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CSS&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
+
+</picture>     
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CSS&theme=dracula&show_icons=true&hide_border=true&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CSS&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
 
-</picture>     
+</picture>    
+
 
 
           
