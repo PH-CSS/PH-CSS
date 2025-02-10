@@ -54,7 +54,8 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    ![PH-CSS's Stats](https://github-readme-stats.vercel.app/api?username=PH-CSS&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CSS&theme=dracula&show_icons=true&hide_border=true&layout=compact"
+    media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 
