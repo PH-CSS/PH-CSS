@@ -50,8 +50,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PH-CSS&theme=dracula&show_icons=true&hide_border=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CSS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PH-CSS&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
 
