@@ -5,7 +5,7 @@
 - 👀 I’m interested: fullstack
 - 🌱 I’m currently learning: React, React Native, DataBase manipulation, Cyber security 
 - 📫 How to reach me:
-- instagram : @onuvemm 
+- email : paulohpeixinhoenrique@gmail.com 
 - Linkedin: https://www.linkedin.com/in/paulo-henrique-028a28324/
 
 
